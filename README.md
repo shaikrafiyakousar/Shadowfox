@@ -22,6 +22,23 @@ python Task1_Beginner/5_inheritance.py
 ```
 
 > Some programs are interactive and will prompt you for input when you run them.
+---
+## Task 2 — Web Scraper & Hangman
+
+| File | Topic | What it demonstrates |
+|---|---|---|
+| [Task2_Intermediate/web_scraper.py](https://github.com/shaikrafiyakousar/Shadowfox/blob/main/Task2_Intermediate/web_scraper.py) | Web Scraper | Extracting quote text, author, and tags from a webpage using `requests` + `BeautifulSoup`, then saving results to CSV |
+| [Task2_Intermediate/hangman.py](https://github.com/shaikrafiyakousar/Shadowfox/blob/main/Task2_Intermediate/hangman.py) | Hangman Game | Building an interactive word-guessing game with ASCII art, input validation, hints, and win/loss handling |
+
+### How to run
+[](https://github.com/shaikrafiyakousar/Shadowfox#how-to-run)
+
+```bash
+python Task2_Intermediate/web_scraper.py
+python Task2_Intermediate/hangman.py
+```
+
+> `web_scraper.py` requires an internet connection and the `requests` and `beautifulsoup4` packages.
 
 ---
 **Intern:** Shaik Rafiya Kousar  
